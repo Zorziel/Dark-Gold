@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "3.1",
+  "name": "Dark Gold",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(48, 48, 48)",
+      "toolbar_text": "rgb(255, 150, 3)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(125, 125, 125)",
+      "toolbar_field": "rgb(23, 23, 23)",
+      "toolbar_field_text": "rgb(255, 150, 3)",
+      "tab_line": "rgb(255, 150, 3)",
+      "popup": "rgb(23, 23, 23)",
+      "popup_text": "rgb(255, 150, 3)",
+      "tab_loading": "rgb(255, 150, 3)"
+    }
+  }
+}
