@@ -24,9 +24,11 @@
       "toolbar_field": "rgb(23, 23, 23)",
       "toolbar_field_text": "rgb(255, 150, 3)",
       "tab_line": "rgb(255, 150, 3)",
-      "popup": "rgb(23, 23, 23)",
+      "popup": "rgb(35, 35, 35)",
       "popup_text": "rgb(255, 150, 3)",
-      "tab_loading": "rgb(255, 150, 3)"
+      "tab_loading": "rgb(255, 150, 3)",
+	  "ntp_background": "rgb(48, 48, 48)",
+	  "ntp_text": "rgb(255, 150, 3)"
     }
   }
 }
