@@ -3,9 +3,6 @@
 
 ---
 
-My Dark Gold theme for Firefox
-
-
 A dark black and gray theme with gold/orange accents. 
 
 ## Description
