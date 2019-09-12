@@ -8,7 +8,7 @@ A dark black and gray theme with gold/orange accents.
 ## Description
 Should be easier on the eyes than some of the other dark themes... I'm working on completing the remaining elements that are still not skinned (popups, context menus, etc).. hopefully I have those done soon.
 
-<b>UPDATE - Version 3.2 - 2019-09-08</b>: Added additional "dark gold" elements to the Firefox hamburger menu, the sidebar new tab page, as well as some bookmarks and history menus. If you do not like the new menus or look, you can still use the older version here: https://addons.mozilla.org/en-US/firefox/addon/dark-gold/versions/
+<b>UPDATE - Version 3.2 - 2019-09-08</b>: Added additional "dark gold" elements to the Firefox hamburger menu, the sidebar, new tab page, as well as some bookmarks and history menus. If you do not like the new menus or look, you can still use the older version here: https://addons.mozilla.org/en-US/firefox/addon/dark-gold/versions/
 
 
 
