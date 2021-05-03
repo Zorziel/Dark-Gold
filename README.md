@@ -20,5 +20,5 @@ To install this theme, please visit the add-on page here: https://addons.mozilla
 ## Other Tweaks to Match Dark Gold
 
 If you're looking for a search engine or start page on the web that may match this theme, here are some to get you started: 
-https://start.duckduckgo.com/?kak=-1&kax=-1&kae=t&k7=333333&kj=232323&kx=faa418&k8=bcbcbc&kp=-2
-https://start.duckduckgo.com/?kak=-1&kal=-1&kao=-1&kaq=-1&kp=-2&kax=-1&kae=t&k9=ffa100&kx=42ff00
+ - https://start.duckduckgo.com/?kak=-1&kax=-1&kae=t&k7=333333&kj=232323&kx=faa418&k8=bcbcbc&kp=-2
+ - https://start.duckduckgo.com/?kak=-1&kal=-1&kao=-1&kaq=-1&kp=-2&kax=-1&kae=t&k9=ffa100&kx=42ff00
