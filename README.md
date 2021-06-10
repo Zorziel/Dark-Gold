@@ -6,7 +6,9 @@ A dark black and gray theme with gold/orange accents.
 ## Description
 Should be easier on the eyes than some of the other dark themes..
 
-<b>UPDATE - Version 3.5 - 2021-06-01:</b> Added new entries for Firefox 89 and tweaked some elements for the new look of Firefox 89+. If you do not like the new look or are using an ESR release of Firefox, you can still find the previous/older versions here: https://addons.mozilla.org/en-US/firefox/addon/dark-gold/versions/
+<b>UPDATE - 2021-06-09 - Version 3.6:</b> Modified the color of the "tab line" to allow a slightly more pronounced <i>hover</i> effect for the selected tab. 
+
+<b>UPDATE - 2021-06-01 - Version 3.5:</b> Added new entries for Firefox 89 and tweaked some elements for the new look of Firefox 89+. If you do not like the new look or are using an ESR release of Firefox, you can still find the previous/older versions here: https://addons.mozilla.org/en-US/firefox/addon/dark-gold/versions/
 
 
 ## Installing
