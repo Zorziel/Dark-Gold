@@ -1,5 +1,6 @@
 # Firefox Theme: Dark Gold
-===
+
+![](https://addons.cdn.mozilla.net/user-media/version-previews/full/2921/2921685.svg?modified=1622822226)
 
 A dark black and gray theme with gold/orange accents. 
 
