@@ -1,7 +1,7 @@
 Dark Gold README
 ================
 
-# Firefox Theme: Dark Gold
+# Firefox Theme: [Dark Gold](https://addons.mozilla.org/en-US/firefox/addon/dark-gold/)
 
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/2921/2921685.svg?modified=1622822226)
 
@@ -44,7 +44,6 @@ If you're looking for a search engine or start page on the web that may match th
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3851/3851934.svg?modified=1623856109)
 
 ---
-
 ### [Dark Violet](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-violet/)
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3851/3851932.svg?modified=1623855760)
 
