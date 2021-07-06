@@ -11,6 +11,8 @@ A dark black and gray theme with gold/orange accents.
 Should be easier on the eyes than some of the other dark themes..
 
 
+<b>UPDATE - 2021-07-05 - Version 3.7:</b> Tweaked tab_line color again. This time it actually does highlight the current tab better than before. 
+
 <b>UPDATE - 2021-06-18:</b> I have uploaded some forks of this theme with different accent colors as requested by some users. This is still the primary theme and I will continue to update this one first and then apply any new changes to the various other colors. I'm hoping that Mozilla adds some more options to control the new UI so that I can theme the modals and context menu without the need for a full extension. 
 
 <b>UPDATE - 2021-06-09 - Version 3.6:</b> Modified the color of the "tab line" to allow a slightly more pronounced <i>hover</i> effect for the selected tab. 
