@@ -5,6 +5,7 @@ Dark Gold README
 
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854886.svg?modified=1625545191)
 
+
 A dark black and gray theme with gold/orange accents. 
 
 ## Description
