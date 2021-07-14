@@ -11,6 +11,7 @@ A dark black and gray theme with gold/orange accents.
 ## Description
 Should be easier on the eyes than some of the other dark themes..
 
+<b>UPDATE - 2021-07-13 - Version 3.8:</b> Added popup_border color to remove the light-gray border on some popups and menus that were added in Firefox 90.0
 
 <b>UPDATE - 2021-07-05 - Version 3.7:</b> Tweaked tab_line color again. This time it actually does highlight the current tab better than before. 
 
