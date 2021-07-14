@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "3.7",
+  "version": "3.8",
   "name": "Dark Gold",
   "theme": {
     "images": {
@@ -43,7 +43,8 @@
 		"tab_selected": "rgb(48, 48, 48)",
 		"tab_text": "rgb(255, 150, 3)",
 		"toolbar_field_border": "rgb(23, 23, 23)",
-		"toolbar_top_separator": "rgb(23, 23, 23)"
+		"toolbar_top_separator": "rgb(23, 23, 23)",
+		"popup_border": "rgb(35, 35, 35)"
     }
   }
 }
