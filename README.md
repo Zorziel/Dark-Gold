@@ -9,7 +9,9 @@ Dark Gold README
 A dark black and gray theme with gold/orange accents. 
 
 ## Description
-Should be easier on the eyes than some of the other dark themes..
+Should be easier on the eyes than some of the other dark themes.. This issue is being tracked [here](https://github.com/Zorziel/Dark-Gold/issues/1)
+
+<b>UPDATE - 2021-08-14:</b> I am aware that the file and context menus are no longer dark after updating to Firefox 90+.  Please see 
 
 <b>UPDATE - 2021-07-13 - Version 3.8:</b> Added popup_border color to remove the light-gray border on some popups and menus that were added in Firefox 90.0
 
