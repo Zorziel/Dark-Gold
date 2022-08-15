@@ -3,7 +3,7 @@ Dark Gold README
 
 # Firefox Theme: [Dark Gold](https://addons.mozilla.org/en-US/firefox/addon/dark-gold/)
 
-![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854886.svg?modified=1625545191)
+![](https://addons.mozilla.org/user-media/version-previews/full/3861/3861265.svg?modified=1629363384)
 
 
 A dark black and gray theme with gold/orange accents. 
@@ -41,24 +41,29 @@ If you're looking for a search engine or start page on the web that may match th
 
 ## Child Themes
 
+
 ---
+### [Darker Gold](https://addons.mozilla.org/en-US/firefox/addon/darker-gold/)
+![](https://addons.mozilla.org/user-media/version-previews/full/3883/3883293.svg?modified=1643081958)
 
 
+---
 ### [Dark Green](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-green/)
-![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854890.svg?modified=1625545228)
+![](https://addons.mozilla.org/user-media/version-previews/full/3861/3861273.svg?modified=1629369757)
 
 ---
 ### [Dark Twilight](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-twilight/)
-![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854888.svg?modified=1625545212)
+![](https://addons.mozilla.org/user-media/version-previews/full/3861/3861275.svg?modified=1629369785)
+
 
 ---
 ### [Dark Blood](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-blood/)
-![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854884.svg?modified=1625545167)
+![](https://addons.mozilla.org/user-media/version-previews/full/3861/3861271.svg?modified=1629369742)
 
 ---
 ### [Dark Violet](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-violet/)
-![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854880.svg?modified=1625544912)
+![](https://addons.mozilla.org/user-media/version-previews/full/3861/3861277.svg?modified=1629369808)
 
 ---
 ### [Dark Tangerine](https://addons.mozilla.org/en-US/firefox/addon/dark-tangerine/)  
-![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3854/3854882.svg?modified=1625545143)
+![](https://addons.mozilla.org/user-media/version-previews/full/3861/3861269.svg?modified=1629369719)
