@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "3.9",
+  "version": "3.9.2",
   "name": "Dark Gold",
   "theme": {
     "images": {
@@ -14,7 +14,13 @@
       ],
       "additional_backgrounds_tiling": [
         "repeat"
-      ]
+      ],
+	  "color_scheme": [
+		"dark"
+	  ],
+	  "content_color_scheme": [
+		"dark"
+	  ]
     },
     "colors": {
 		"toolbar": "rgb(48, 48, 48)",
